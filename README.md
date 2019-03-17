@@ -3,6 +3,8 @@
 This app demonstrates how to use ReactJS, Pusher, and Service Worker to build a realtime PWA.
 
 [View tutorial](https://pusher.com/tutorials/pwa-react)
+Open this link for to view the app
+
 
 ## How to run this app
 
